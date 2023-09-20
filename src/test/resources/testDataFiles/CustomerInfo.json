@@ -1,0 +1,13 @@
+{
+  "customer_firstName": "Chris",
+  "customer_lastName": "Ronald",
+  "customer_address_street": "SoccerStreet",
+  "customer_address_city": "SoccerCity",
+  "customer_address_state": "NL",
+  "customer_address_zipCode": "12455",
+  "customer_phoneNumber": "123654897",
+  "customer_ssn": "123",
+  "customer_username": "ChrisRonald2",
+  "customer_password": "P@$$w0rdd",
+  "repeatedPassword": "P@$$w0rdd"
+}
